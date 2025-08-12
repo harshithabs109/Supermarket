@@ -1,1 +1,1 @@
-# Supermarket
+# Supermarket app using Java OOP
